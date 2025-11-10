@@ -1,0 +1,45 @@
+Prompt 1: Architecture (Beginner Version)
+
+Explain the simple architecture of an e-commerce website using React.js for the frontend, Node.js with Express for the backend, and MySQL for the database. Describe all components, how data flows between them, and basic deployment steps.
+
+ Prompt 2: Backend (Beginner Version)
+
+Write a basic backend for an e-commerce website using Node.js, Express, and MySQL.
+Include APIs for:
+
+Product listing
+
+Add to cart
+
+Place order
+Add validation, error handling, and explain how to connect to the MySQL database.
+
+ Prompt 3: Frontend (Beginner Version)
+
+Create a simple React.js frontend for an e-commerce site with pages for:
+
+Home
+
+Product details
+
+Cart
+
+Checkout
+Use React Router for navigation and basic state management for the cart.
+
+ Prompt 4: Database Design
+
+Design MySQL tables for products, users, carts, and orders.
+Include SQL commands to create each table and insert a few example records for testing.
+
+ Prompt 5: Documentation & Deployment
+
+Write short documentation for the e-commerce website project, explaining:
+
+Overview of the system
+
+How frontend, backend, and database interact
+
+Steps to run the project locally
+
+Basic deployment using Render, Vercel, or any hosting platform.
